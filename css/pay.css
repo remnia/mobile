@@ -29,7 +29,7 @@
 }
 .payment{
 	width: 7.5rem;
-	height: 0.85rem;
+	height: 1rem;
 	
 	display: flex;
 	flex-direction: row;
@@ -59,7 +59,9 @@
 .chip{
 	width: 7.5rem;
 	height: 0.58rem;
-	
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
 }
 .choosepay{
 	width: 7.5rem;
